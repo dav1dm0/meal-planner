@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL:  process.env.REACT_APP_SERVER_URL || 'http://localhost:5000/api',
+  baseURL:  process.env.REACT_APP_SERVER_URL || 'https://ptjthcpk-5000.uks1.devtunnels.ms/api',
   withCredentials: true,
 });
 

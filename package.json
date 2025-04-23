@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage" : "https://qzertz.github.io/meal-planner",
-  "proxy": "http://localhost:5000",
+  "proxy": "https://ptjthcpk-5000.uks1.devtunnels.ms",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
